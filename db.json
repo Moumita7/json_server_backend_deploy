@@ -61,5 +61,9 @@
       "email": "cnorssister9@mayoclinic.com"
     }
   ],
-  "inventoryData":[]
+  "inventoryData":[
+    {
+        "id":1
+    }
+  ]
 }
